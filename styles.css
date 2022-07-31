@@ -11,7 +11,7 @@ body{
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(/university.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(university.png);
     background-position:center ;
     background-size: cover;
     position: relative;
@@ -135,7 +135,7 @@ nav .fa{
 
 }
 .course .course-meeting-image{
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(3,6,25,0.9)),url(/deegree_photos.jpg);
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(3,6,25,0.9)),url(deegree_photos.jpg);
   height: 70vh;
   background-color: aqua;
   width: 100%;
@@ -373,7 +373,7 @@ padding: 17px;
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/cata.png);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(cata.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
